@@ -18,3 +18,6 @@ Simple implementation of legendary game Pong
  - The game is very slow when the user position is changed
  - Problems with the clock 
  - No errors handling
+
+## Info about new versions
+ - This current version was made with the purpose of applying the knowledge obtained in the first week of the subject Distributed Systems. In the next weeks, I'll try to commit new versions where the described errors are probably gone.
